@@ -1,5 +1,5 @@
 ![Jogo_Infantil](https://user-images.githubusercontent.com/102592994/163997382-b0372ed6-aeb4-4f13-9522-bb1287586d2c.jpg)
-#### Escolhemos o gameboy por relembrar os tempos tranquilos e acolhedores da infância, por se tratar de um console muito memorável, pelas cores vibrantes e os formatos arredondados.
+#### Escolhemos o gameboy como console para jogar o nosso jogo por relembrar os tempos tranquilos e acolhedores da infância, por se tratar de um console muito memorável, pelas cores vibrantes e os formatos arredondados.
 
 ### Significado da escolha das cores:
 
